@@ -26,13 +26,13 @@ Målet med projektet är att:
 Följ stegen nedan för att ladda ner och köra projektet lokalt på din dator:
 
 **1. Klona projektet från GitHub:**  
-   Öppna terminalen och skriv följande:  
-   git clone https://github.com/vczarnotta/fashion-store-exercise
+>Öppna terminalen och skriv följande:  
+>git clone https://github.com/vczarnotta/fashion-store-exercise
    
 **2. Öppna index.html med Live Server:**  
-   Om du använder VS Code, se till att Live Server-tillägget är installerat.  
-   Högerklicka på index.html och välj "Open with Live Server".  
-   Alternativt, öppna index.html i din webbläsare direkt.
+>Om du använder VS Code, se till att Live Server-tillägget är installerat.  
+>Högerklicka på index.html och välj "Open with Live Server".  
+>Alternativt, öppna index.html i din webbläsare direkt.
 
 ## 🔗 Länk till GitHub
 För att se koden, bidra eller följa projektet, besök gärna GitHub-sidan:  
